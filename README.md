@@ -59,11 +59,11 @@
 
 <p></p>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mochamadyusuf&show_icons=true&locale=en&layout=compact" alt="mochamadyusuf" /></p>
+
+<p></p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mochamadyusuf&show_icons=true&locale=en" alt="mochamadyusuf" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mochamadyusuf&" alt="mochamadyusuf" />
 </p>
-
-<p></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mochamadyusuf&show_icons=true&locale=en&layout=compact" alt="mochamadyusuf" /></p>
